@@ -1,5 +1,5 @@
-# unity3d-windjson
-* WindJson解析库中的词法分析算法采用词法状态转换矩阵算法，该算法的代码非常精简，将每个类别的单词分析高度抽象成为一个状态转换矩阵进行表示，同时将分析Json的词法和Json语法抽象成了两个层次，因此代码逻辑结构变得非常简单。
+# knight-windjson
+* WindJson是一个简单高效的Json解析库，用于Unity3D中。
 
 ## WindJson支持的功能
 * 支持标准的Json格式解析
